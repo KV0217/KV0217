@@ -10,7 +10,7 @@ I build end-to-end ML pipelines and deploy them as production REST APIs — not 
 
 | Project | Model | Score | API | App |
 |---------|-------|-------|-----|-----|
-| **Supplier Risk Intelligence** | **GB Ensemble + Rules** | **MSE 7.5** | **[API](https://supplier-risk-intel-api.onrender.com/api/v1/risk/assess)** | **[Streamlit](https://supplier-risk-intelligence-kv.streamlit.app/)**
+| **Supplier Risk Intelligence** | **GB Ensemble + Rules** | **MSE 7.5** | **[API](https://supplier-risk-intelligence-1.onrender.com/docs)** | **[Streamlit](https://supplier-risk-intelligence-kv.streamlit.app/)**
 | Customer Churn Prediction | Random Forest | AUC 0.84 | [API](https://churn-prediction-api-cbqf.onrender.com/docs) | [Streamlit](https://customer-churn-prediction-kv.streamlit.app) |
 | HR Attrition Analysis | XGBoost + Survival | AUC 0.79 | [API](https://hr-attrition-api-qzeq.onrender.com/docs) | [Streamlit](https://hr-attrition-api-kv.streamlit.app) |
 | Sales Profit Forecasting | Gradient Boosting | R² 0.9436 | [API + What-If](https://sales-profit-api.onrender.com/docs) | — |
